@@ -2,7 +2,7 @@
 
 Plain-language git notes for geography and earth observation work. Written by a student, for students, so the answers to common git problems live in one place.
 
-> **Heads up:** the starter notes were written with help from an AI assistant and checked against a real project. Test a command on a throwaway repo before you trust it with work you care about.
+> **Heads up:** the starter notes were written with help from an AI assistant (Claude Sonnet 5.5) and checked against a real project. Test a command on a throwaway repo before you trust it with work you care about.
 
 ## What is here
 
