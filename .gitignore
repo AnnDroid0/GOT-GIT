@@ -1,0 +1,6 @@
+*.tif
+*.nc
+data/
+.Rhistory
+.RData
+.DS_Store
