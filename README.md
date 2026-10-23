@@ -8,9 +8,12 @@ Plain-language git notes for geography and earth observation work. Written by a 
 
 | File | What it is |
 |-|-|
-| `git-commands.md` | Full beginner reference with use cases|
-| `git-cheatsheet.pdf` | One-page landscape cheat sheet to print or keep open |
-| `notes/` | Team contributions (see below) |
+| `git-core-commands.md` | Daily commands: look, save, branch, merge, sync, undo |
+| `git-setup-and-troubleshooting.md` | Config, vim escape, error decoder |
+| `git-shell-basics.md` | Terminal commands that travel with git |
+| `git-sharing-and-collaboration.md` | New repos, forks, pull requests, public repo hygiene |
+| `cheatsheet/` | One-page PDF, plus the markdown source and script to rebuild it |
+| `notes/` | Classmate contributions (see below) |
 | `notes/TEMPLATE.md` | Copy this to start a new note |
 
 ## If you only remember one thing
