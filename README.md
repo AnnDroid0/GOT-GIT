@@ -9,18 +9,18 @@ Plain-language git notes for geography and earth observation work. Written by a 
 | File | What it is |
 |-|-|
 | `git-core-commands.md` | Daily commands: look, save, branch, merge, sync, undo |
-| `git-setup-and-troubleshooting.md` | Config, vim escape, error decoder |
+| `git-setup-and-troubleshooting.md` | Config, vim , error decoder |
 | `git-shell-basics.md` | Terminal commands that travel with git |
 | `git-sharing-and-collaboration.md` | New repos, forks, pull requests, public repo hygiene |
 | `cheatsheet/` | One-page PDF, plus the markdown source and script to rebuild it |
 | `notes/` | Classmate contributions (see below) |
 | `notes/TEMPLATE.md` | Copy this to start a new note |
 
-## If you only remember one thing
+## If you only remember one thing...
 
 **branch, status, add, commit, push.** Check where you are (`git branch`), check what changed (`git status`), then stage, save and send. Most beginner mistakes come from skipping the check.
 
-## Why git matters for earth observation
+##  git matters specific to earth observation
 
 Satellite and geospatial work breaks git in ways generic tutorials skip:
 
