@@ -20,7 +20,7 @@ Plain-language git notes for geography and earth observation work. Written by a 
 
 **branch, status, add, commit, push.** Check where you are (`git branch`), check what changed (`git status`), then stage, save and send. Most beginner mistakes come from skipping the check.
 
-##  git matters specific to earth observation
+## Matters specific to earth observation
 
 Satellite and geospatial work breaks git in ways generic tutorials skip:
 
